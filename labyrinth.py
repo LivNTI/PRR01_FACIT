@@ -71,8 +71,8 @@ def livingroom():
         print("You sprint out the gate before something else can happen and leace the house behind you")
     
     #main code
-    print ("You find yourself in a forest")
-    print("as you walk along the path you come acroos a cottage in a sunny clearing")
-    print("the door is open and you decide to look inside")
-    print("as you enter the door closes behind you")
-    entrance()
+print ("You find yourself in a forest")
+print("as you walk along the path you come acroos a cottage in a sunny clearing")
+print("the door is open and you decide to look inside")
+print("as you enter the door closes behind you")
+entrance()
